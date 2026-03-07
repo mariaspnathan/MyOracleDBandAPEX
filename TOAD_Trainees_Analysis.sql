@@ -1,4 +1,4 @@
---Version 1.0
+--Version 2.0
 select * from v$database;
 select * from v$instance;
 select * from dba_objects where object_name = 'HALITS_AUTHENTICATION';
